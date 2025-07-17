@@ -27,7 +27,7 @@ class InvitationPage extends StatelessWidget {
 
   // 공유 텍스트
   final String shareText =
-      '저희 결혼식에 초대합니다 💕\n날짜: 2025년 10월 10일\n장소: 서울웨딩홀\n자세한 정보는 청첩장을 확인해주세요!';
+      '저희 결혼식에 초대합니다 💕\n날짜: 20nn년 n월 n일\n장소: 웨딩홀\n자세한 정보는 청첩장을 확인해주세요!';
 
   @override
   Widget build(BuildContext context) {
