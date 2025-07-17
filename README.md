@@ -1,20 +1,3 @@
-<<<<<<< HEAD
 # wedding_card
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# wedding_card_project
->>>>>>> 84b55c93702ad401a46a8d85e6333f1ca7575016
+이 프로젝트는 모바일 청첩장을 만들기 위한 프로젝트입니다.  
